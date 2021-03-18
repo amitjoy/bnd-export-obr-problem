@@ -1,0 +1,5 @@
+-dependson: *
+-export        : \
+	test.bndrun; \
+		type               =    bnd.obr.exporter; \
+		excludesystem      =    false
